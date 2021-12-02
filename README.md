@@ -8,10 +8,10 @@ I love to build stuff. Whether I'm building some awesome iOS application, woodwo
 
 In my free time I'm currently working on a semi-functional TacPad inspired by Halo Reach to provide Reach cosplayers with helpful convention information and suit controls from their devices mounted on their forearm armor while building my own Halo Reach costume armor.
 
----
 
-- 🔭 I’m currently working on Halo Reach inspired TacPad for iOS and Android
-- 🌱 I’m currently learning integrating Fit with Android apps and HealthKit on iOS
+🔭 I’m currently working on Halo Reach inspired TacPad for iOS and Android
+
+🌱 I’m currently learning integrating Fit with Android apps and HealthKit on iOS
 
 ---
 
