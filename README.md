@@ -11,7 +11,7 @@ In my free time I'm currently working on a semi-functional TacPad inspired by Ha
 ---
 
 - 🔭 I’m currently working on Halo Reach inspired TacPad for iOS and Android
-- - 🌱 I’m currently learning integrating Fit with Android apps and HealthKit on iOS
+- 🌱 I’m currently learning integrating Fit with Android apps and HealthKit on iOS
 
 ---
 
