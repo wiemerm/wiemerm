@@ -9,21 +9,15 @@ I love to build stuff. Whether I'm building some awesome iOS application, woodwo
 In my free time I'm currently working on a semi-functional TacPad inspired by Halo Reach to provide Reach cosplayers with helpful convention information and suit controls from their devices mounted on their forearm armor while building my own Halo Reach costume armor.
 
 
-<img src="[YOUR_VERCEL_PROJECT_DOMAIN]/[METHOD]?username=[YOUR_LINKEDIN_USERNAME]" />
-
-
 <!--🔭 I’m currently working on Halo Reach inspired TacPad for iOS and Android
 
 🌱 I’m currently learning integrating Fit with Android apps and HealthKit on iOS -->
 
-:mailbox: How to reach me:
+📫 How to reach me:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/meganwiemer/)
----
 
 <!--
-**wiemerm/wiemerm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -39,6 +33,5 @@ Here are some ideas to get you started:
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wiemerm&theme=darcula)](https://github.com/anuraghazra/github-readme-stats) -->
 📈 Stats:
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=wiemerm&count_private=true&theme=darcula&showicons=true)]()
-
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=wiemerm&count_private=true&theme=darcula&showicons=true)]() 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=wiemerm&langs_count=5&theme=darcula)]()
