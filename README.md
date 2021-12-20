@@ -33,4 +33,4 @@ Here are some ideas to get you started:
 📈 Stats:
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=wiemerm&count_private=true&theme=darcula&showicons=true)]() 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=wiemerm&langs_count=5&theme=darcula)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=wiemerm&theme=darcula)]()
