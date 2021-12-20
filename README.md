@@ -14,6 +14,7 @@ In my free time I'm currently working on a semi-functional TacPad inspired by Ha
 🌱 I’m currently learning integrating Fit with Android apps and HealthKit on iOS -->
 
 📫 How to reach me: 
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/meganwiemer/)
 
 <!--
