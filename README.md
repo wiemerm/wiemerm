@@ -1,7 +1,7 @@
 
 <!-- [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/fallen.cosplay/) -->
 
-### Hi, I'm Wiemer! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi, I'm Megan! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
  #### About Me:
 I love to build stuff. Whether I'm building some awesome iOS application, woodworking, or constructing a new costume, I enjoy the challenge of taking an idea and bringing it into reality.
