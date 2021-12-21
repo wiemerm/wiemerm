@@ -4,9 +4,9 @@
 ### Hi, I'm Wiemer! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
  #### About Me:
-I love to build stuff. Whether I'm building some awesome iOS application, woodworking, or constructing a new costume I enjoy the challenge of taking an idea and bringing it into reality.
+I love to build stuff. Whether I'm building some awesome iOS application, woodworking, or constructing a new costume, I enjoy the challenge of taking an idea and bringing it into reality.
 
-In my free time I'm currently working on a semi-functional TacPad inspired by Halo Reach to provide Reach cosplayers with helpful convention information and suit controls from their devices mounted on their forearm armor while building my own Halo Reach costume armor.
+In my free time I'm currently working on a semi-functional TACPAD inspired by Halo Reach to provide cosplayers with health information and suit controls from their devices mounted to their forearm armor while building my own Halo Reach costume armor.
 
 
 <!--🔭 I’m currently working on Halo Reach inspired TacPad for iOS and Android
