@@ -6,7 +6,7 @@
  #### About Me:
 I love to build stuff. Whether I'm building some awesome iOS application, woodworking, or constructing a new costume, I enjoy the challenge of taking an idea and bringing it into reality.
 
-In my free time I'm currently working on a semi-functional TACPAD inspired by Halo Reach to provide cosplayers with health information and suit controls from their devices mounted to their forearm armor while building my own Halo Reach costume armor.
+In my free time I'm currently working on a semi-functional TACPAD inspired by Halo Reach to provide cosplayers with health information and suit controls from their devices mounted to their forearm armor while building my own Halo Reach costume armor. Feel free to read more about the project and any updates I share about it [here](https://www.405th.com/forums/threads/semi-functional-reach-tacpad-mobile-project.51504/).
 
 
 <!--🔭 I’m currently working on Halo Reach inspired TacPad for iOS and Android
