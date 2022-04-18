@@ -33,5 +33,5 @@ Here are some ideas to get you started:
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wiemerm&theme=darcula)](https://github.com/anuraghazra/github-readme-stats) -->
 📈 Stats:
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=wiemerm&count_private=true&theme=darcula&showicons=true)]() 
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=wiemerm&count_private=true&theme=darcula&showicons=true&include_all_commits=true)]() 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=wiemerm&theme=darcula)]()
